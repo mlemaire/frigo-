@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Frigo+",
-    "slug": "frigo-",
-    "scheme": "frigoplus",
+    "name": "Frigo",
+    "slug": "frigo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "scheme": "frigo",
     "userInterfaceStyle": "light",
     "backgroundColor": "#faf6f1",
     "ios": {
